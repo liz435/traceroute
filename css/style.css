@@ -1,0 +1,94 @@
+body{
+    background-color: black;
+}
+.title{
+    font-size: 3rem;
+    text-align: center;
+    color: aliceblue;
+}
+
+#img1{
+    width:25rem ;
+    color: aliceblue;
+    font-size: 0.25rem;
+    white-space: pre;
+    float: left;
+    margin-right: 3%;
+}
+
+#img1:hover{
+    font-size: 0.3rem;
+}
+
+.img2{
+    width:23rem ;
+    color: aliceblue;
+    font-size: 0.3rem;
+    white-space: pre;
+    float: left;
+    margin-right: 5%;
+    margin-top: -3%;
+}
+
+.img3{
+    width:23rem ;
+    color: aliceblue;
+    font-size: 0.2rem;
+    white-space: pre;
+    float: left;
+    margin-left: 0%;
+    margin-top: -3%;
+}
+
+.img3:hover{
+    font-size: 0.25rem;
+}
+
+.topTxt{
+    color: aliceblue;
+    font-size: 2rem;
+    text-align: left;
+    width: 100%;
+
+}
+
+.sub-title{
+    font-size: 3rem;
+    text-align: center;
+}
+
+.content{
+    color: aliceblue;
+    float: left;
+    margin-top: 5%;
+    margin-left: 10%;
+    text-align: center;
+    font-size: 0.5rem;
+}
+
+.content1{
+    color: aliceblue;
+    float: left;
+    margin-top: 10%;
+    height: 100%;
+    margin-left: 15%;
+    position: absolute;
+    text-align: center;
+    position: relative;
+    font-size: 0.4rem;
+}
+
+.content2{
+    color: aliceblue;
+    float: left;
+    width: 20rem;
+    margin-top: 2%;
+    margin-left: 0%;
+
+    font-size: 0.4rem;
+}
+
+.content2:hover{
+    font-size: 0.5rem;
+}
+
